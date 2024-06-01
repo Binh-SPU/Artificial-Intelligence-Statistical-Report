@@ -1,0 +1,12 @@
+name: AIFinalProject
+title: AIFinalProject
+username: phamb5
+account: phamb5
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11476258
+bundleId: 8366178
+url: https://phamb5.shinyapps.io/AIFinalProject/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

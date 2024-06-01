@@ -2,7 +2,7 @@
 
 This Shiny web application provides interactive visualizations of data related to Artificial Intelligence (AI), including scholarly publications, patent applications, and performance metrics on knowledge tests using Rstudio.
 
-[Here the is our little statistical app!](https://phamb5.shinyapps.io/AIFinalProject/)
+[Here the is my little statistical app!](https://phamb5.shinyapps.io/AIFinalProject/)
 
 ## Features
 
